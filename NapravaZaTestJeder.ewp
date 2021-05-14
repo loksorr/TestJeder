@@ -2319,6 +2319,9 @@
         <name>$PROJ_DIR$\ini.h</name>
     </file>
     <file>
+        <name>$PROJ_DIR$\izpisi_LCD.h</name>
+    </file>
+    <file>
         <name>$PROJ_DIR$\lcd_driver.c</name>
     </file>
     <file>

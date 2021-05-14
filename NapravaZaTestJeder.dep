@@ -1,177 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <fileVersion>4</fileVersion>
-    <fileChecksum>3890567960</fileChecksum>
+    <fileChecksum>3004152613</fileChecksum>
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>$PROJ_DIR$\cos_200.h</file>
-            <file>$PROJ_DIR$\in_out.c</file>
-            <file>$PROJ_DIR$\ADCCircuitDriver.h</file>
             <file>$PROJ_DIR$\ADCCircuitDriver.c</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\in_out.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+            <file>$PROJ_DIR$\timer.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$PROJ_DIR$\lcd_driver.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADCCircuitDriver.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$PROJ_DIR$\lcd_helper.h</file>
+            <file>$PROJ_DIR$\cos_200.h</file>
+            <file>$PROJ_DIR$\ini.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcd_helper.r43</file>
+            <file>$TOOLKIT_DIR$\config\linker\multiplier.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\SinusGeneration.r43</file>
+            <file>$PROJ_DIR$\ADCCircuitDriver.h</file>
+            <file>$PROJ_DIR$\lcd_driver.h</file>
+            <file>$PROJ_DIR$\SinusGeneration.c</file>
+            <file>$PROJ_DIR$\in_out.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\in_out.xcl</file>
+            <file>$PROJ_DIR$\lcd_helper.c</file>
+            <file>$PROJ_DIR$\Debug\Exe\NapravaZaTestJeder.ulp</file>
+            <file>$PROJ_DIR$\ini.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.xcl</file>
+            <file>$PROJ_DIR$\timer.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SinusGeneration.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.__cstat.et</file>
+            <file>$PROJ_DIR$\SinusGeneration.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\in_out.c</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430xlsfn.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+            <file>$PROJ_DIR$\izpisi_LCD.h</file>
+            <file>$TOOLKIT_DIR$\config\linker\lnk430f2616.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SinusGeneration.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\msp430.h</file>
             <file>$PROJ_DIR$\Debug\Exe\NapravaZaTestJeder.d43</file>
             <file>$PROJ_DIR$\Debug\Obj\ini.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\lcd_driver.r43</file>
-            <file>$TOOLKIT_DIR$\inc\msp430f2616.h</file>
-            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
-            <file>$PROJ_DIR$\Debug\List\NapravaZaTestJeder.map</file>
             <file>$PROJ_DIR$\Debug\Obj\lcd_helper.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\ini.__cstat.et</file>
-            <file>$PROJ_DIR$\izpisi_LCD.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\ini.r43</file>
-            <file>$TOOLKIT_DIR$\inc\msp430.h</file>
-            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
-            <file>$TOOLKIT_DIR$\lib\dlib\dl430xlsfn.r43</file>
-            <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
-            <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\in_out.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\ADCCircuitDriver.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\lcd_driver.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\timer.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\SinusGeneration.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
-            <file>$PROJ_DIR$\Debug\Obj\in_out.r43</file>
-            <file>$TOOLKIT_DIR$\lib\dlib\dl430xlsfn.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\SinusGeneration.__cstat.et</file>
             <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\lcd_driver.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\NapravaZaTestJeder.pbd</file>
-            <file>$TOOLKIT_DIR$\inc\in430.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\in_out.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\ADCCircuitDriver.r43</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
-            <file>$PROJ_DIR$\in_out.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
-            <file>$PROJ_DIR$\lcd_helper.h</file>
-            <file>$PROJ_DIR$\SinusGeneration.c</file>
-            <file>$PROJ_DIR$\lcd_driver.c</file>
-            <file>$PROJ_DIR$\SinusGeneration.h</file>
-            <file>$PROJ_DIR$\timer.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\ADCCircuitDriver.xcl</file>
-            <file>$TOOLKIT_DIR$\config\linker\lnk430f2616.xcl</file>
-            <file>$PROJ_DIR$\Debug\Exe\NapravaZaTestJeder.ulp</file>
-            <file>$PROJ_DIR$\lcd_driver.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430xlsfn.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcd_driver.r43</file>
             <file>$PROJ_DIR$\Debug\Obj\timer.r43</file>
-            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
-            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADCCircuitDriver.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\NapravaZaTestJeder.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcd_driver.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADCCircuitDriver.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcd_driver.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\msp430f2616.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\in_out.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ini.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\ini.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\List\NapravaZaTestJeder.map</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
             <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\SinusGeneration.r43</file>
-            <file>$PROJ_DIR$\ini.c</file>
-            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\lcd_helper.r43</file>
-            <file>$PROJ_DIR$\Debug\Obj\timer.__cstat.et</file>
-            <file>$PROJ_DIR$\timer.h</file>
-            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
-            <file>$PROJ_DIR$\ini.h</file>
-            <file>$TOOLKIT_DIR$\config\linker\multiplier.xcl</file>
-            <file>$PROJ_DIR$\main.c</file>
-            <file>$PROJ_DIR$\lcd_helper.c</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
         </outputs>
         <file>
             <name>[ROOT_NODE]</name>
             <outputs>
                 <tool>
-                    <name>XLINK</name>
-                    <file> 4 9</file>
-                </tool>
-                <tool>
                     <name>ULP430</name>
-                    <file> 44</file>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 39 57</file>
                 </tool>
             </outputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\in_out.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC430</name>
-                    <file> 25</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 32</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 19</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC430</name>
-                    <file> 14 7 31 47 35 57 55</file>
-                </tool>
-            </inputs>
         </file>
         <file>
             <name>$PROJ_DIR$\ADCCircuitDriver.c</name>
             <outputs>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 49</file>
+                </tool>
+                <tool>
                     <name>ICC430</name>
-                    <file> 33</file>
+                    <file> 46</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 42</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 20</file>
+                    <file> 7</file>
                 </tool>
             </outputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\Debug\Exe\NapravaZaTestJeder.d43</name>
+            <name>$PROJ_DIR$\main.c</name>
             <outputs>
                 <tool>
-                    <name>XLINK</name>
-                    <file> 9</file>
+                    <name>__cstat</name>
+                    <file> 28</file>
                 </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>XLINK</name>
-                    <file> 43 58 33 25 13 6 53 24 50 46 16</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\SinusGeneration.c</name>
-            <outputs>
                 <tool>
                     <name>ICC430</name>
-                    <file> 50</file>
+                    <file> 35</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 23</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 27</file>
-                </tool>
-            </outputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\lcd_driver.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC430</name>
-                    <file> 6</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 21</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 29</file>
+                    <file> 5</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC430</name>
-                    <file> 14 7 31 47 45</file>
+                    <file> 38 51 36 8 56 3 58 59 43 34 31 60 53 42 22 24 18 9 16 32</file>
                 </tool>
             </inputs>
         </file>
@@ -179,22 +124,45 @@
             <name>$PROJ_DIR$\timer.c</name>
             <outputs>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
                     <name>ICC430</name>
-                    <file> 46</file>
+                    <file> 45</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 22</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 54</file>
+                    <file> 23</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC430</name>
-                    <file> 14 7 31 47 57 55 35</file>
+                    <file> 38 51 36 8 22 24 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\lcd_driver.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 38 51 36 8 16</file>
                 </tool>
             </inputs>
         </file>
@@ -202,64 +170,96 @@
             <name>$PROJ_DIR$\ini.c</name>
             <outputs>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
                     <name>ICC430</name>
-                    <file> 13</file>
+                    <file> 55</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 5</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 11</file>
+                    <file> 40</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC430</name>
-                    <file> 14 7 31 47 57 45 0 35</file>
+                    <file> 38 51 36 8 22 16 10 18</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\main.c</name>
+            <name>$PROJ_DIR$\SinusGeneration.c</name>
             <outputs>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 25</file>
+                </tool>
+                <tool>
                     <name>ICC430</name>
-                    <file> 24</file>
+                    <file> 14</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 34</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 36</file>
+                    <file> 37</file>
                 </tool>
             </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC430</name>
-                    <file> 14 7 31 47 17 52 8 49 26 48 56 15 18 28 57 55 35 37 45 12</file>
-                </tool>
-            </inputs>
         </file>
         <file>
             <name>$PROJ_DIR$\lcd_helper.c</name>
             <outputs>
                 <tool>
                     <name>ICC430</name>
-                    <file> 53</file>
+                    <file> 12</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 10</file>
+                    <file> 41</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC430</name>
-                    <file> 45 37</file>
+                    <file> 16 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\in_out.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 2</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 38 51 36 8 18 22 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\NapravaZaTestJeder.d43</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 33 13 46 2 55 44 12 35 14 45 30</file>
                 </tool>
             </inputs>
         </file>
